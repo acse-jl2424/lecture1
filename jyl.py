@@ -5,3 +5,6 @@ print(s)
 
 def f1(r):
     return 2*np.pi*r
+
+def zywy(x):
+    return x+1
